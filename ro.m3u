@@ -1,0 +1,232 @@
+#EXTM3U url-tvg="https://www.api.filmele.cf/guide.xml"
+#EXTINF:-1  tvg-id="AMC" tvg-name="AMC" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", AMC
+http://194.0.91.181:6878/ace/getstream?id=9761583808579d53f2f64b316da724820620c762&.ts
+
+#EXTINF:-1  tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", AXN Black
+http://194.0.91.181:6878/ace/getstream?id=3b00c98cc40dacf593faea84c7e2e1cfad72a866&.ts
+
+#EXTINF:-1  tvg-id="AXN White" tvg-name="AXN White" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", AXN White
+http://194.0.91.181:6878/ace/getstream?id=a6181af8dbe0663eecd7f6158d9732e022aac39d&.ts
+
+#EXTINF:-1  tvg-id="Antena 1" tvg-name="Antena 1" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Antena 1
+http://194.0.91.181:6878/ace/getstream?id=84f675cef04cf477bb6a9c366b131b86fdabb5b5&.ts
+
+#EXTINF:-1  tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Antena 3
+http://194.0.91.181:6878/ace/getstream?id=6b74fc5ac7cf263e592ccb23800660b1220df778&.ts
+
+#EXTINF:-1  tvg-id="Antena Comedy" tvg-name="Antena Comedy" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Antena Comedy
+http://194.0.91.181:6878/ace/getstream?id=de2f6aea5eeeef6d620f9810fd2b47b87587b3af&.ts
+
+#EXTINF:-1  tvg-id="Antena Stars" tvg-name="Antena Stars" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Antena Stars
+http://194.0.91.181:6878/ace/getstream?id=ad993905d198b5202ff1c2f27f930b879340a650&.ts
+
+#EXTINF:-1  tvg-id="B1 TV " tvg-name="B1 TV " tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", B1 TV 
+http://194.0.91.181:6878/ace/getstream?id=4b20ab810df1e6df978cce58cf62cb76c1534c87&.ts
+
+#EXTINF:-1  tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", BBC Earth
+http://194.0.91.181:6878/ace/getstream?id=7d8cb87ba7d5502201c976eb54d4a45a11a62971&.ts
+
+#EXTINF:-1  tvg-id="Bollywood Boogle Music" tvg-name="Bollywood Boogle Music" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Bollywood Boogle Music
+http://194.0.91.181:6878/ace/getstream?id=9d68c728d5a5d2bd48abc2d5cfba3676f4a9cf50&.ts
+
+#EXTINF:-1  tvg-id="Bollywood Classics  (indisp)" tvg-name="Bollywood Classics  (indisp)" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Bollywood Classics  (indisp)
+http://194.0.91.181:6878/ace/getstream?id=35940c7aff0a05ae0369b3159bd1fbff8a787606&.ts
+
+#EXTINF:-1  tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Boomerang
+http://194.0.91.181:6878/ace/getstream?id=ac3bf76c92f136e326de9998c75edebe5187100b&.ts
+
+#EXTINF:-1  tvg-id="CBS Reality " tvg-name="CBS Reality " tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", CBS Reality 
+http://194.0.91.181:6878/ace/getstream?id=2d6e5ca3b5a5a45f3af1b5a0abc592304c3e63a6&.ts
+
+#EXTINF:-1  tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Comedy Central
+http://194.0.91.181:6878/ace/getstream?id=fece7a4e6491feb836ccb83075ab9984ab9ea385&.ts
+
+#EXTINF:-1  tvg-id="Digi Sport 1" tvg-name="Digi Sport 1" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Digi Sport 1
+http://194.0.91.181:6878/ace/getstream?id=c575315526a0b6a1a75bd6ebe548b62b7dc50a82&.ts
+
+#EXTINF:-1  tvg-id="Digi Sport 2" tvg-name="Digi Sport 2" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Digi Sport 2
+http://194.0.91.181:6878/ace/getstream?id=3b3d22e60aa72aff95a92e7667878f63ba898a50&.ts
+
+#EXTINF:-1  tvg-id="Digi Sport 3 " tvg-name="Digi Sport 3 " tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Digi Sport 3 
+http://194.0.91.181:6878/ace/getstream?id=13ee042b7446275702d30f4c7a87ee889c21c3d0&.ts
+
+#EXTINF:-1  tvg-id="Digi Sport 4" tvg-name="Digi Sport 4" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Digi Sport 4
+http://194.0.91.181:6878/ace/getstream?id=ede354f7f0ca2009484a0795180031d24ffeec9d&.ts
+
+#EXTINF:-1  tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Discovery Channel
+http://194.0.91.181:6878/ace/getstream?id=e8c858bba5f72cf3b33a802573665c164dc57cbd&.ts
+
+#EXTINF:-1  tvg-id="Discovery ID " tvg-name="Discovery ID " tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Discovery ID 
+http://194.0.91.181:6878/ace/getstream?id=9ccce635750ee7deaa7684166b7b3adc64242ceb&.ts
+
+#EXTINF:-1  tvg-id="Discovery Science " tvg-name="Discovery Science " tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Discovery Science 
+http://194.0.91.181:6878/ace/getstream?id=33d8726505f84deebe7ea3beab9014418639f9d1&.ts
+
+#EXTINF:-1  tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Disney Channel
+http://194.0.91.181:6878/ace/getstream?id=258116c0e01f8365d6614d1356f00bd381263b28&.ts
+
+#EXTINF:-1  tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Disney Junior
+http://194.0.91.181:6878/ace/getstream?id=283bd7be92b4a9bcc0e50ba2cc3b313197d8c330&.ts
+
+#EXTINF:-1  tvg-id="Diva " tvg-name="Diva " tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Diva 
+http://194.0.91.181:6878/ace/getstream?id=da23bcce9dd2689e202b544d5228e47ee873390b&.ts
+
+#EXTINF:-1  tvg-id="Duck TV " tvg-name="Duck TV " tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Duck TV 
+http://194.0.91.181:6878/ace/getstream?id=2b12adb30532e1fc44e540fd03b0e849d128b05b&.ts
+
+#EXTINF:-1  tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", E! Entertainment
+http://194.0.91.181:6878/ace/getstream?id=7c6a15f80786d17f83a9af44b8db14cfda8b115e&.ts
+
+#EXTINF:-1  tvg-id="Etno TV" tvg-name="Etno TV" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Etno TV
+http://194.0.91.181:6878/ace/getstream?id=00b72cdfa7d2fffa383e0a01807a813fdbf3b84e&.ts
+
+#EXTINF:-1  tvg-id="EuroSport 1" tvg-name="EuroSport 1" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", EuroSport 1
+http://194.0.91.181:6878/ace/getstream?id=a020f56162ff397b9c28a547ddbfdb283b458c0a&.ts
+
+#EXTINF:-1  tvg-id="EuroSport 2" tvg-name="EuroSport 2" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", EuroSport 2
+http://194.0.91.181:6878/ace/getstream?id=aee63957f309b2a1ac5b608d835a125103fc6f79&.ts
+
+#EXTINF:-1  tvg-id="Favorit TV" tvg-name="Favorit TV" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Favorit TV
+http://194.0.91.181:6878/ace/getstream?id=34eca2673aee89cb0950117fbb70f978d66a7fbc&.ts
+
+#EXTINF:-1  tvg-id="Film Cafe" tvg-name="Film Cafe" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Film Cafe
+http://194.0.91.181:6878/ace/getstream?id=bb5fae7da447e3023bd190aaed5f5a668389a7f4&.ts
+
+#EXTINF:-1  tvg-id="Film Now " tvg-name="Film Now " tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Film Now 
+http://194.0.91.181:6878/ace/getstream?id=1279e0931865be3244428c52a72dc997f6cb5c18&.ts
+
+#EXTINF:-1  tvg-id="Fine Living " tvg-name="Fine Living " tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Fine Living 
+http://194.0.91.181:6878/ace/getstream?id=bfdf2997c4bd7e30e7ea5c9c5859b6230aaeb63a&.ts
+
+#EXTINF:-1  tvg-id="Fishing and Hunting " tvg-name="Fishing and Hunting " tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Fishing and Hunting 
+http://194.0.91.181:6878/ace/getstream?id=c8f459e8c2cb09bda5f2314894e867a4d5de2b7e&.ts
+
+#EXTINF:-1  tvg-id="HBO1" tvg-name="HBO1" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", HBO1
+http://194.0.91.181:6878/ace/getstream?id=6a874f29ed839896f5272c9263abc399f00c417e&.ts
+
+#EXTINF:-1  tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", HBO2
+http://194.0.91.181:6878/ace/getstream?id=2f4f00cbbd9ec4d5028faa51e112659795fc6857&.ts
+
+#EXTINF:-1  tvg-id="HBO3 " tvg-name="HBO3 " tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", HBO3 
+http://194.0.91.181:6878/ace/getstream?id=d9de6831f4db6fdf01d0921c8fda52062fd53cab&.ts
+
+#EXTINF:-1  tvg-id="History" tvg-name="History" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", History
+http://194.0.91.181:6878/ace/getstream?id=60e23c7c705dbe1aaa4807ddabacc62ed7e9387e&.ts
+
+#EXTINF:-1  tvg-id="Hit Music Channel Ro" tvg-name="Hit Music Channel Ro" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Hit Music Channel Ro
+http://194.0.91.181:6878/ace/getstream?id=77060b78a05e9f608e729ebb9cf6c3e1f8311909&.ts
+
+#EXTINF:-1  tvg-id="Hora TV" tvg-name="Hora TV" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Hora TV
+http://194.0.91.181:6878/ace/getstream?id=765696e2d304ed0406937bcbbf060cf0a0d16903&.ts
+
+#EXTINF:-1  tvg-id="Iași TV" tvg-name="Iași TV" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Iași TV
+http://194.0.91.181:6878/ace/getstream?id=19dd3e4a70a6c9316435454f76aa0fd4d895bc95&.ts
+
+#EXTINF:-1  tvg-id="JimJam" tvg-name="JimJam" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", JimJam
+http://194.0.91.181:6878/ace/getstream?id=66938526a1d233ef73585cd35bcd6dc6347b87b3&.ts
+
+#EXTINF:-1  tvg-id="Kiss TV" tvg-name="Kiss TV" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Kiss TV
+http://194.0.91.181:6878/ace/getstream?id=d44b75a40fecb698c95cd12cfac02fcdd300399c&.ts
+
+#EXTINF:-1  tvg-id="Look Sport" tvg-name="Look Sport" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Look Sport
+http://194.0.91.181:6878/ace/getstream?id=70a0aa00d10b603480284d764d3ae54c5c037954&.ts
+
+#EXTINF:-1  tvg-id="Look Sport 2" tvg-name="Look Sport 2" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Look Sport 2
+http://194.0.91.181:6878/ace/getstream?id=0a48def8d0b04fb263437e50697ca5fb1c168806&.ts
+
+#EXTINF:-1  tvg-id="Look Sport 3" tvg-name="Look Sport 3" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Look Sport 3
+http://194.0.91.181:6878/ace/getstream?id=ac995f71e54dfbdb2b4be55349333947a8e4288c&.ts
+
+#EXTINF:-1  tvg-id="Look Sport+" tvg-name="Look Sport+" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Look Sport+
+http://194.0.91.181:6878/ace/getstream?id=9e9d154e18730cff38bfdfb5a1115253fcacf8bd&.ts
+
+#EXTINF:-1  tvg-id="MTV Dance/Hits" tvg-name="MTV Dance/Hits" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", MTV Dance/Hits
+http://194.0.91.181:6878/ace/getstream?id=3a437596df837aa1dfe4ac928049ea8fade91a70&.ts
+
+#EXTINF:-1  tvg-id="MTV Ro/Now" tvg-name="MTV Ro/Now" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", MTV Ro/Now
+http://194.0.91.181:6878/ace/getstream?id=06ed87043671fa4d3b132ed5d738b24284e38d1e&.ts
+
+#EXTINF:-1  tvg-id="Mireasa" tvg-name="Mireasa" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Mireasa
+http://194.0.91.181:6878/ace/getstream?id=96843b214d091f680c746bff45f2a50992756d83&.ts
+
+#EXTINF:-1  tvg-id="National 24 Plus" tvg-name="National 24 Plus" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", National 24 Plus
+http://194.0.91.181:6878/ace/getstream?id=34d079209dff3943cd06c9f5da23da18f958e8fa&.ts
+
+#EXTINF:-1  tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", National Geographic
+http://194.0.91.181:6878/ace/getstream?id=47a7fe7c2b6271746076a618d6286165575ac0d4&.ts
+
+#EXTINF:-1  tvg-id="National TV" tvg-name="National TV" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", National TV
+http://194.0.91.181:6878/ace/getstream?id=52b9d443dd0ba681694955e523f63c9c1838b890&.ts
+
+#EXTINF:-1  tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Nickelodeon
+http://194.0.91.181:6878/ace/getstream?id=8d602ca4d155fdf9a34fbb079501ec0ca0b5f090&.ts
+
+#EXTINF:-1  tvg-id="Nickelodeon Junior" tvg-name="Nickelodeon Junior" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Nickelodeon Junior
+http://194.0.91.181:6878/ace/getstream?id=6f455132dde4895550260a2db251d35c720591af&.ts
+
+#EXTINF:-1  tvg-id="Nicktoons " tvg-name="Nicktoons " tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Nicktoons 
+http://194.0.91.181:6878/ace/getstream?id=4b8cbaacc3ccee65d53db9d8096ff17abd160636&.ts
+
+#EXTINF:-1  tvg-id="Prima TV" tvg-name="Prima TV" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Prima TV
+http://194.0.91.181:6878/ace/getstream?id=01f1cc5686bedf98a43385749af58286e272e6f6&.ts
+
+#EXTINF:-1  tvg-id="Pro 2" tvg-name="Pro 2" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Pro 2
+http://194.0.91.181:6878/ace/getstream?id=d8b37c0551b9b924b64ca6822493fbeca1f9ab66&.ts
+
+#EXTINF:-1  tvg-id="Pro TV" tvg-name="Pro TV" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Pro TV
+http://194.0.91.181:6878/ace/getstream?id=77744593df58cbf991268658d304a9ef5559da32&.ts
+
+#EXTINF:-1  tvg-id="Pro X" tvg-name="Pro X" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Pro X
+http://194.0.91.181:6878/ace/getstream?id=ec35c8dd542d1d4da01380841ebe0dfd17b1231a&.ts
+
+#EXTINF:-1  tvg-id="Profit" tvg-name="Profit" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Profit
+http://194.0.91.181:6878/ace/getstream?id=06d30b268a8c9b8835f5565ae60312559f87d998&.ts
+
+#EXTINF:-1  tvg-id="Realitatea Plus" tvg-name="Realitatea Plus" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Realitatea Plus
+http://194.0.91.181:6878/ace/getstream?id=5a375393c4ea09876ade168ba954ee3638a41e26&.ts
+
+#EXTINF:-1  tvg-id="Romania TV" tvg-name="Romania TV" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Romania TV
+http://194.0.91.181:6878/ace/getstream?id=6594b61ba6dcf0441310cf3274bda5bbc7b27fc7&.ts
+
+#EXTINF:-1  tvg-id="TLC" tvg-name="TLC" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", TLC
+http://194.0.91.181:6878/ace/getstream?id=5deffe61f09b792602d3363fc8eb939ec0dea0b4&.ts
+
+#EXTINF:-1  tvg-id="TNT (Turner Network Television)  " tvg-name="TNT (Turner Network Television)  " tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", TNT (Turner Network Television)  
+http://194.0.91.181:6878/ace/getstream?id=994f8f7441fae55563b0851ddbf0ccdf5e45b07e&.ts
+
+#EXTINF:-1  tvg-id="TV Paprika" tvg-name="TV Paprika" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", TV Paprika
+http://194.0.91.181:6878/ace/getstream?id=54e9427b2d50a273ad886f022b057da243bab1a2&.ts
+
+#EXTINF:-1  tvg-id="TV1000" tvg-name="TV1000" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", TV1000
+http://194.0.91.181:6878/ace/getstream?id=9993b48ef67c0a25c5bb032aa8fb5751067e2c42&.ts
+
+#EXTINF:-1  tvg-id="TVR 1" tvg-name="TVR 1" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", TVR 1
+http://194.0.91.181:6878/ace/getstream?id=ab01e6706eec7364c7dea229e7594bf30847028c&.ts
+
+#EXTINF:-1  tvg-id="TVR 2" tvg-name="TVR 2" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", TVR 2
+http://194.0.91.181:6878/ace/getstream?id=209adefd7ea0dada79da1965108b8ffa4827e6ff&.ts
+
+#EXTINF:-1  tvg-id="TVR 3" tvg-name="TVR 3" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", TVR 3
+http://194.0.91.181:6878/ace/getstream?id=4fca1597af1bf2ea4c17c7aa4227d0a5bb255cf9&.ts
+
+#EXTINF:-1  tvg-id="TVR International" tvg-name="TVR International" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", TVR International
+http://194.0.91.181:6878/ace/getstream?id=573861ccc1e498f6f5c170b42925fd3470a39235&.ts
+
+#EXTINF:-1  tvg-id="TVR Moldova" tvg-name="TVR Moldova" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", TVR Moldova
+http://194.0.91.181:6878/ace/getstream?id=54147a07de68b3f0704b174ff1a8f9675cd9dc23&.ts
+
+#EXTINF:-1  tvg-id="Telekom Sport 1" tvg-name="Telekom Sport 1" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Telekom Sport 1
+http://194.0.91.181:6878/ace/getstream?id=a5c19d3245596ee3ed528468368e97b0467a5995&.ts
+
+#EXTINF:-1  tvg-id="Telekom Sport 2" tvg-name="Telekom Sport 2" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Telekom Sport 2
+http://194.0.91.181:6878/ace/getstream?id=5ff281e7b736fbfb35059f14d04b2ef57512c3a0&.ts
+
+#EXTINF:-1  tvg-id="Travel Mix" tvg-name="Travel Mix" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Travel Mix
+http://194.0.91.181:6878/ace/getstream?id=357cb6cbaf488d5cbc3d6d3210aa3da19e6d2cb7&.ts
+
+#EXTINF:-1  tvg-id="Trinitas TV  " tvg-name="Trinitas TV  " tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", Trinitas TV  
+http://194.0.91.181:6878/ace/getstream?id=5ccab9a3e80e995d4a063b0ca94054e43625cd64&.ts
+
+#EXTINF:-1  tvg-id="VH1" tvg-name="VH1" tvg-logo="https://pbs.twimg.com/profile_images/1191370686469738496/a2fbwstv_400x400.jpg" group-title="Romania ", VH1
+http://194.0.91.181:6878/ace/getstream?id=3b499cce938457677842874ae20fcdc0c12a3aec&.ts
+
